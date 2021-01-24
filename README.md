@@ -8,9 +8,9 @@ This was my very first website that I've created using HTML and CSS. Most of the
 
 ## Screenshot
 
-![]()
+![horiseon screenshot](assets/images/horiseonSS.JPG)
 
 ## Links
 
-
+https://fongvang09.github.io/horiseon/
 
