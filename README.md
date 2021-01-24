@@ -14,3 +14,4 @@ This was my very first website that I've created using HTML and CSS. Most of the
 
 https://fongvang09.github.io/horiseon/
 
+https://github.com/fongvang09/horiseon/settings
